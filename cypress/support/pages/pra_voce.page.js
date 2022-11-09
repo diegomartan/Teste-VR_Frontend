@@ -5,7 +5,7 @@ const elements = {
     clicarEmPraVoceLink: ':nth-child(3) > .vr-main-navigation__link',
     validarPaginaPraVoce: '.vr-hero',
     clicarEmOndeUsarOMeuCartaoVrLink: '.vr-hero__actions > .vr-button--negative',
-    validarMapaGoogleSection: '[aria-label="Mapa"]',
+    validarMapaGoogleSection: '.main-section',
     aceitarTermoDePrivacidadeLink: '#lum_4028808471FC1D5D0171FE80340D6AC8_quickAcceptTerm'
 }
 
